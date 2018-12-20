@@ -1,0 +1,1 @@
+You can download the data at https://archive.ics.uci.edu/ml/machine-learning-databases/housing/housing.data. In my coce, I uses read_csv to directly access the dataset
